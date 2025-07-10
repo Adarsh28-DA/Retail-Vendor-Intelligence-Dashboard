@@ -94,4 +94,5 @@ To build an interactive Power BI dashboard that:
 ## 🖼️ Screenshots
 
 ### 📊 Power BI Dashboard
+https://github.com/Adarsh28-DA/Retail-Vendor-Intelligence-Dashboard/blob/main/Vendor%20Management%20Dashboard.png
 
